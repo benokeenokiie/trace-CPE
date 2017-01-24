@@ -1,0 +1,15 @@
+html {
+	background-image: url('../img/bg-login1.gif');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+
+.login-page {
+	background-color: transparent;
+}
+
+.login-box {
+	opacity: 0.9;
+	font-family: 'Josefin Sans', sans-serif;
+}
